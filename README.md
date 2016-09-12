@@ -1,6 +1,6 @@
 # Gnuradio-VOX-PTT
-Simple VOX style keing example for RedPitaya with GNURADIO
+Simple VOX style keying example for RedPitaya with GNURADIO
 
-VOX/PTT keing via "signal probe".
+VOX/PTT keying via "signal probe".
 
 Require a virtual soundcard (eg SoundFlower) 
